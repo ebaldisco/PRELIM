@@ -1,0 +1,4 @@
+a.) Explain in your own words the term "single-threaded"
+    •   the computer process one command at a time.
+b.) In your own words, what is "event driven architecture"
+    •
